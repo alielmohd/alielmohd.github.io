@@ -39,7 +39,7 @@ body {
 ul {
   list-style-type: none;
   margin: auto;
-  padding: auto;
+  padding: 0px;
   width: auto;
   background-color: darkolivegreen;
   position: fixed;
